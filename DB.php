@@ -11,7 +11,7 @@
             //phpinfo();
             $servername = 'localhost';
             $username = 'tux';
-            $password = 'Linux741!';
+            $password = '*************';
             
             //On établit la connexion
             $conn = new mysqli($servername, $username, $password);
